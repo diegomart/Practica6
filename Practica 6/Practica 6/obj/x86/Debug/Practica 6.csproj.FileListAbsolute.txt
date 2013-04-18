@@ -1,0 +1,7 @@
+D:\Users\Tacuache\Desktop\programacion\Practica 6\Practica 6\bin\Debug\Practica 6.exe
+D:\Users\Tacuache\Desktop\programacion\Practica 6\Practica 6\bin\Debug\Practica 6.pdb
+D:\Users\Tacuache\Desktop\programacion\Practica 6\Practica 6\obj\x86\Debug\Practica_6.Form1.resources
+D:\Users\Tacuache\Desktop\programacion\Practica 6\Practica 6\obj\x86\Debug\Practica_6.Properties.Resources.resources
+D:\Users\Tacuache\Desktop\programacion\Practica 6\Practica 6\obj\x86\Debug\Practica 6.csproj.GenerateResource.Cache
+D:\Users\Tacuache\Desktop\programacion\Practica 6\Practica 6\obj\x86\Debug\Practica 6.exe
+D:\Users\Tacuache\Desktop\programacion\Practica 6\Practica 6\obj\x86\Debug\Practica 6.pdb
